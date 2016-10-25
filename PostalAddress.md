@@ -1,0 +1,11 @@
+###Schema.org entity descriptions: PostalAddress
+
+| **Property**                                                          | **Expected Type**                          | **Description**                                                                                                                                |
+|-----------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Properties from [PostalAddress](https://schema.org/PostalAddress)** |
+| [**addressCountry**](https://schema.org/addressCountry)               | [Country](https://schema.org/Country)  or  [Text](https://schema.org/Text)             | The country. For example, USA. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1). |
+| [**addressLocality**](https://schema.org/addressLocality)             | [Text](https://schema.org/Text)            | The locality. For example, Mountain View.                                                                                                      |
+| [**addressRegion**](https://schema.org/addressRegion)                 | [Text](https://schema.org/Text)            | The region. For example, CA.                                                                                                                   |
+| [**postOfficeBoxNumber**](https://schema.org/postOfficeBoxNumber)     | [Text](https://schema.org/Text)            | The post office box number for PO box addresses.                                                                                               |
+| [**postalCode**](https://schema.org/postalCode)                       | [Text](https://schema.org/Text)            | The postal code. For example, 94043.                                                                                                           |
+| [**streetAddress**](https://schema.org/streetAddress)                 | [Text](https://schema.org/Text)            | The street address. For example, 1600 Amphitheatre Pkwy.                                                                                       |
