@@ -1,3 +1,7 @@
+1.  <span id="_Toc461716379" class="anchor"></span>Referenced Schema.org entities (Informative)
+
+Some members of the project group have reported difficulties in accessing <https://schema.org/>. To provide additional clarity we provide a snapshot of the <https://schema.org/> entity definitions below. This information is informative only.
+
 1.  <span id="_Toc461716380" class="anchor"></span>Schema.org entity descriptions: Offer
 
 | **Property**                                                                  | **Expected Type**                                                | **Description**                                                                                                                                                                                                                                                                                                                                                                            |
@@ -71,3 +75,5 @@
 | [**validFrom**](https://schema.org/validFrom)                                 | [DateTime](https://schema.org/DateTime)                          | The date when the item becomes valid.                                                                                                                                                                                                                                                                                                                                                      |
 | [**validThrough**](https://schema.org/validThrough)                           | [DateTime](https://schema.org/DateTime)                          | The date after when the item is not valid. For example the end of an offer, salary period, or a period of opening hours.                                                                                                                                                                                                                                                                   |
 | [**warranty**](https://schema.org/warranty)                                   | [WarrantyPromise](https://schema.org/WarrantyPromise)            | The warranty promise(s) included in the offer. Supersedes [warrantyPromise](https://schema.org/warrantyPromise).                                                                                                                                                                                                                                                                           |
+
+1.  <span id="_Toc461716381" class="anchor"></span>Schema.org entity descriptions: Organisation
